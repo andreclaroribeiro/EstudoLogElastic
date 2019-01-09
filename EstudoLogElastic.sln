@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoLogElastic.Api", "EstudoLogElastic.Api\EstudoLogElastic.Api.csproj", "{803252EF-D147-49C6-A496-78153A485EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803252EF-D147-49C6-A496-78153A485EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803252EF-D147-49C6-A496-78153A485EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803252EF-D147-49C6-A496-78153A485EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803252EF-D147-49C6-A496-78153A485EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E1C7CF-92A4-4538-A8FE-0A5BAE142577}
+	EndGlobalSection
+EndGlobal
